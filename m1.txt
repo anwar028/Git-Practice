@@ -2,3 +2,12 @@
 
 
 
+//fixing bug --122
+
+public String Greet(){
+
+
+String str = "Good evening";
+
+return str;
+}
