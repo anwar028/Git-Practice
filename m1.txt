@@ -1,7 +1,13 @@
 //hi hell this m1txt file
 
 
+// fixing bug -121
+public String Welcome()
+{
+String str = "Good Morning";
 
+return str;
+}
 //fixing bug -122
 
 public String Greet(){
